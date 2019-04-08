@@ -30,7 +30,7 @@ def while_iterator(number_of_times)
   end
 end
 
-counter = 0
+counter = 10
 def until_iterator(number_of_times)
   until counter == number_of_times 
   puts "Welcome to Flatiron School's Web Development Course!"
